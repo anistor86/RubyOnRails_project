@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 67cc373013cc803579fdc82be78fd571d3d8c3bf Luca Storani <lucastorani@gmail.com> 1497369234 +0100	commit (initial): Add ruby
+67cc373013cc803579fdc82be78fd571d3d8c3bf e90712a229e4f25a67273610d3f7ee4c837274ea Luca Storani <lucastorani@gmail.com> 1497370979 +0100	commit: Add route, db and article model
+e90712a229e4f25a67273610d3f7ee4c837274ea 7e74c8958feb01875ca20c2dc4765a19e6439560 Luca Storani <lucastorani@gmail.com> 1497373402 +0100	commit: Update articles controller, add css style
+7e74c8958feb01875ca20c2dc4765a19e6439560 ba981df41e02c116d1f4620a63b5220b352f878a Luca Storani <lucastorani@gmail.com> 1497458174 +0100	commit: Finished blog comments feature
